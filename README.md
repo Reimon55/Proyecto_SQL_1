@@ -38,9 +38,9 @@ Dada la necesidad de continuar mi 📚 aprendizaje como analista de datos y adqu
 
 - **Jupyter Notebook:** Pegué y adecué el código generado por la IA para crear imágenes, utilizando las librerías: pandas, matplotlib y seaborn de Python
 
--**ChatGPT:** Lo usé para crear el código Python para generar las imágenes.
+- **ChatGPT:** Lo usé para crear el código Python para generar las imágenes.
 
--**Tableau:** Herramienta de visualización.
+- **Tableau:** Herramienta de visualización.
 
 
 # Análisis
