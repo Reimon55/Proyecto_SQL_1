@@ -25,7 +25,8 @@ SELECT
     JOIN skills_job_dim sjd ON jpf.job_id = sjd.job_id
     JOIN skills_dim sd ON sjd.skill_id = sd.skill_id
     WHERE
-    job_title_short = 'Data Analyst'
+    job_title_short = 'Data Analyst' AND
+    job_work_from_home = 'TRUE'
 GROUP BY
     skills
 ORDER BY

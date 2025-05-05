@@ -115,9 +115,9 @@ paying_skills AS (
 
 SELECT
     demand_skills.skill_id,
-    demand_skills.skills,
-    demand_count,
-    avg_salary
+    demand_skills.skills AS Habilidad,
+    demand_count AS ofertas,
+    avg_salary AS Salario (MUSD)
 FROM 
     demand_skills
 JOIN paying_skills ON demand_skills.skill_id = paying_skills.skill_id
