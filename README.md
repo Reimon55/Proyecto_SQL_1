@@ -81,7 +81,7 @@ Se puede observar:
 
 - Variedad de puestos: Los puestos van desde analista de datos pasando por principal hasta director de análisis, lo que refleja diversas funciones y especializaciones dentro del análisis de datos.
 
-![top_paying_jobs](assets\1_top_paying_jobs_Python.png)
+![top_paying_jobs](assets/1_top_paying_jobs_Python.png)
 *Gráfico de barras de los 10 mejores salarios para analistas de datos; ChatGPT generó el código para generar el gráfico a partir de los resultados de mi consulta en SQL*
 
 
@@ -123,7 +123,7 @@ Se puede observar:
 
 Habilidades más demandadas: SQL, Python y Tableau encabezan las habilidades requeridas por las ofertas para trabajo remoto mejor pagadas en el 2023.
 
-![top_paying_job_skills](assets\2_top_paying_job_skills.png)
+![top_paying_job_skills](assets/2_top_paying_job_skills.png)
 *Gráfico de barras de las habilidades requeridas por los 10 mejores salarios para analistas de datos; ChatGPT generó el código para generar el gráfico a partir de los resultados de mi consulta en SQL*
 
 
@@ -153,7 +153,7 @@ SQL, Excel y Python.
 - **Herramientas de visualización:** 
 Tableau y Power BI.
 
-![top_demanded_skills](assets\3_top_demanded_skills.png)
+![top_demanded_skills](assets/3_top_demanded_skills.png)
 *Gráfico de barras de las 5 habilidades más requeridas para analistas de datos en trabajos remotos; ChatGPT generó el código para generar el gráfico a partir de los resultados de mi consulta en SQL*
 
 ### 4.- ¿Qué habilidades se asocian con salarios más altos?
@@ -262,7 +262,7 @@ Tenemos las 37 habilidades más demandadas para analistas de datos con sus salar
 
 Mira el gráfico público en [Tableau](https://public.tableau.com/views/Habilidadesysalariosparaanalistasdedatos2023/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Salarios_Habilidades](assets\Salarios_Habilidades.png)
+![Salarios_Habilidades](assets/Salarios_Habilidades.png)
 *Mapa de calor que relaciona las habilidades más demandadas con sus salarios; usé Tableau para generar el gráfico a partir de los resultados de mi consulta en SQL*
 
 # ¿Qué Aprendí?
