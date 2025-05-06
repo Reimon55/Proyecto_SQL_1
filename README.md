@@ -263,7 +263,7 @@ Tenemos las 37 habilidades más demandadas para analistas de datos con sus salar
 Mira el gráfico público en [Tableau](https://public.tableau.com/views/Habilidadesysalariosparaanalistasdedatos2023/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![Salarios_Habilidades](assets/Salarios_Habilidades.png)
-*Mapa de calor que relaciona las habilidades más demandadas con sus salarios; usé Tableau para generar el gráfico a partir de los resultados de mi consulta en SQL*
+        *Mapa de calor que relaciona las habilidades más demandadas con sus salarios; usé Tableau para generar el gráfico a partir de los resultados de mi consulta en SQL*
 
 # ¿Qué Aprendí?
 
